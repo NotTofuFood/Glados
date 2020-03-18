@@ -11,6 +11,17 @@ If you want Glados to close out tabs and open nuerotoxin windows, run MortalityC
 
 You must go into config.txt inside of GladOSCode and configure it to your computers needs.
 
+# COMMANDS:
+
+- Try saying hi to Glados. 
+
+- Try asking Glados the weather or date.
+
+- Try asking Glados to do Math. (Dont say any other words when you ask her to do math. For example, only say 2+2.)
+
+- Try asking Glados what she is.
+
+- Try telling Glados goodbye.
 
 
 # CREDITS:
