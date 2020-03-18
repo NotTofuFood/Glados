@@ -11,6 +11,10 @@ If you want Glados to close out tabs and open nuerotoxin windows, run MortalityC
 
 You must go into config.txt inside of GladOSCode and configure it to your computers needs.
 
+You must have Python 3.6 or higher installed on your computer. 
+
+When installing Python 3.6 it will ask you to install tkinter, please install that as well.
+
 # COMMANDS:
 
 - Try saying hi to Glados. 
