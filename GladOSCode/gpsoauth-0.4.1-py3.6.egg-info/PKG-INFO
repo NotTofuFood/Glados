@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: gpsoauth
+Version: 0.4.1
+Summary: A python client library for Google Play Services OAuth.
+Home-page: https://github.com/simon-weber/gpsoauth
+Author: Simon Weber
+Author-email: simon@simonmweber.com
+License: MIT
+Description: gpsoauth: a python client library for Google Play Services OAuth
+        ================================================================
+        
+        gpsoauth allows python code to use the "master token" flow that KB Sriram described at http://sbktech.blogspot.com/2014/01/inside-android-play-services-magic.html.
+        
+        This can be useful when writing code that poses as a Google app, like `gmusicapi <https://github.com/simon-weber/Unofficial-Google-Music-API>`__ does.
+        
+        Many thanks to Dima Kovalenko for reverse engieering the EncryptedPasswd signature in http://codedigging.com/blog/2014-06-09-about-encryptedpasswd.
+        
+        Ports
+        -----
+        * C#: https://github.com/vemacs/GPSOAuthSharp.
+        * Ruby: https://github.com/bryanmytko/gpsoauth
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

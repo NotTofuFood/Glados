@@ -1,0 +1,8 @@
+..\__pycache__\webrtcvad.cpython-36.pyc
+..\_webrtcvad.cp36-win_amd64.pyd
+..\webrtcvad.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt

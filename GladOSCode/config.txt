@@ -1,0 +1,15 @@
+App To Open One:
+C:\Program Files (x86)\Audacity\audacity.exe
+
+
+App To Open Two
+C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
+
+App To Kill One
+MinecraftLauncher.exe
+
+App To Kill Two
+MinecraftLauncher.exe
+
+App To Kill Three
+MinecraftLauncher.exe

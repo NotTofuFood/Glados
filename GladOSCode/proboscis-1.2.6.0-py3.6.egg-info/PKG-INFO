@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: proboscis
+Version: 1.2.6.0
+Summary: Extends Nose with certain TestNG like features.
+Home-page: https://github.com/rackspace/python-proboscis
+Author: Rackspace
+Author-email: tim.simpson@rackspace.com
+License: Apache
+Description: Proboscis is a Python test framework that extends Python's built-in unittest module and Nose with features from TestNG.
+Keywords: nose test testng
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python

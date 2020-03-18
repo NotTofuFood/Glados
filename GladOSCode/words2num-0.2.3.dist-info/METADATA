@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: words2num
+Version: 0.2.3
+Summary: Inverse text normalization for numbers
+Home-page: http://github.com/JDongian/python-words2num
+Author: Joshua Dong
+Author-email: jdong42@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+# words2num
+
+Inverse text normalization for numbers. Currently only supports en-US locale.
+
+## Usage
+
+Example: `w2n("forty-two hundred and forty-two")`
+
+## Installation
+
+`pip install words2num`
+
+

@@ -1,0 +1,14 @@
+README.rst
+setup.cfg
+setup.py
+gpsoauth/__init__.py
+gpsoauth/_version.py
+gpsoauth/google.py
+gpsoauth/tests.py
+gpsoauth/util.py
+gpsoauth.egg-info/PKG-INFO
+gpsoauth.egg-info/SOURCES.txt
+gpsoauth.egg-info/dependency_links.txt
+gpsoauth.egg-info/not-zip-safe
+gpsoauth.egg-info/requires.txt
+gpsoauth.egg-info/top_level.txt

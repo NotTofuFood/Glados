@@ -1,0 +1,17 @@
+tests/__init__.py,sha256=_2Fn8HgG57BPbHR0FOAMAcCUwLi5b7hXVsnCOhwuzwY,1069
+tests/__pycache__/__init__.cpython-36.pyc,,
+tests/__pycache__/test_EN_US.cpython-36.pyc,,
+tests/test_EN_US.py,sha256=c63eYYYzc9pze79Y8rMp5qYMGXEWFArF3y6CezS9Kv4,4210
+words2num-0.2.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+words2num-0.2.3.dist-info/METADATA,sha256=E6JhwNcJQrI5u4KH397r8tzDDJmvr1CfPfL0bdTp63I,440
+words2num-0.2.3.dist-info/RECORD,,
+words2num-0.2.3.dist-info/WHEEL,sha256=NzFAKnL7g-U64xnS1s5e3mJnxKpOTeOtlXdFwS9yNXI,92
+words2num-0.2.3.dist-info/top_level.txt,sha256=nv4cW50F5_P-jmUWDYoAbHabjuIY2X8BzV4cpm3M63s,16
+words2num/__init__.py,sha256=2g6cdmwtVFCD9to5pz-e1JzBAbhYM_HII8HrmjtsIZY,122
+words2num/__pycache__/__init__.cpython-36.pyc,,
+words2num/__pycache__/base.cpython-36.pyc,,
+words2num/__pycache__/core.cpython-36.pyc,,
+words2num/__pycache__/lang_EN_US.cpython-36.pyc,,
+words2num/base.py,sha256=3CBt6nEgHYxM5lkaemKHA6R_y_owpdw399QgMhSXvEQ,465
+words2num/core.py,sha256=oBlFCeC8GllYvHIkZsJTlcR7cAk7p6QMlfn8L8zMat8,246
+words2num/lang_EN_US.py,sha256=2VKHa44oC5_DdrN7M3SOMM23SH7i7JovRoQB0_inmH8,6709
