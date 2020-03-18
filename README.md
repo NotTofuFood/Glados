@@ -2,7 +2,7 @@ Thank you for downloading Glados.
 
 
 
-##HOW TO RUN:
+#HOW TO RUN:
 
 If you just want the assistant, run assistant.bat. 
 
