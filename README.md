@@ -1,3 +1,5 @@
+## Glados Is Currently Under Maintence (Though This Build Is Still Up). I Am Adding More Stuff Soon, As Well As Cleaning Up Code.
+
 # HOW TO RUN:
 
 If you just want the assistant, run assistant.bat. 
